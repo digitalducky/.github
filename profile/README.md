@@ -1,4 +1,4 @@
-Currently heads-down working on our next thing. Stay tuned!
+A very serious software company.
 
 ```
    __
